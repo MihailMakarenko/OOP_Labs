@@ -1,0 +1,56 @@
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Университет\2 Курс\Семестр 4\ООП\Lab8\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Университет\2 Курс\Семестр 4\ООП\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Университет\2 Курс\Семестр 4\ООП\lab10\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Университет\3 курс\5 семестр\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
